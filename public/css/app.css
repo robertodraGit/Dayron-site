@@ -10954,3 +10954,21 @@ a.text-dark:focus {
   opacity: 0.9;
 }
 
+@media all and (max-width: 992px) {
+  .carousel-inner > .carousel-item {
+    min-height: 500px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .carousel-inner > .carousel-item {
+    min-height: 400px;
+  }
+}
+
+@media all and (max-width: 575px) {
+  .carousel-inner > .carousel-item {
+    min-height: 300px;
+  }
+}
+
