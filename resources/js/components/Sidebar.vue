@@ -1,6 +1,6 @@
 <template>
     <div class="hidden">
-      <vs-button shadow @click="activeSidebar = !activeSidebar">
+      <vs-button size='xl' shadow @click="activeSidebar = !activeSidebar" class="mb-3">
         <img style='width: 100px' src="storage/assets/mignon.png">
         <template #animate >
           Menù

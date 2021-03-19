@@ -1975,6 +1975,61 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {};
@@ -38344,45 +38399,193 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c(
-    "div",
-    { staticClass: "center-grid" },
+    "vs-card-group",
     [
-      _c(
-        "vs-card-group",
-        [
-          _c("vs-card", {
-            attrs: { type: "5" },
-            scopedSlots: _vm._u([
-              {
-                key: "title",
-                fn: function() {
-                  return [_c("h3", [_vm._v("TITOLO FOTO")])]
-                },
-                proxy: true
-              },
-              {
-                key: "img",
-                fn: function() {
-                  return [
-                    _c("img", {
-                      attrs: { src: "storage/assets/mignon.png", alt: "" }
-                    })
-                  ]
-                },
-                proxy: true
-              },
-              {
-                key: "text",
-                fn: function() {
-                  return [_c("p", [_vm._v("Testo")])]
-                },
-                proxy: true
-              }
-            ])
-          })
-        ],
-        1
-      )
+      _c("vs-card", {
+        attrs: { type: "5" },
+        scopedSlots: _vm._u([
+          {
+            key: "title",
+            fn: function() {
+              return [_c("h3", [_vm._v("TITOLO FOTO")])]
+            },
+            proxy: true
+          },
+          {
+            key: "img",
+            fn: function() {
+              return [
+                _c("img", {
+                  attrs: { src: "storage/assets/homepage/001.jpg", alt: "" }
+                })
+              ]
+            },
+            proxy: true
+          },
+          {
+            key: "text",
+            fn: function() {
+              return [_c("p", [_vm._v("Testo")])]
+            },
+            proxy: true
+          }
+        ])
+      }),
+      _vm._v(" "),
+      _c("vs-card", {
+        attrs: { type: "5" },
+        scopedSlots: _vm._u([
+          {
+            key: "title",
+            fn: function() {
+              return [_c("h3", [_vm._v("TITOLO FOTO")])]
+            },
+            proxy: true
+          },
+          {
+            key: "img",
+            fn: function() {
+              return [
+                _c("img", {
+                  attrs: { src: "storage/assets/homepage/002.PNG", alt: "" }
+                })
+              ]
+            },
+            proxy: true
+          },
+          {
+            key: "text",
+            fn: function() {
+              return [_c("p", [_vm._v("Testo")])]
+            },
+            proxy: true
+          }
+        ])
+      }),
+      _vm._v(" "),
+      _c("vs-card", {
+        attrs: { type: "5" },
+        scopedSlots: _vm._u([
+          {
+            key: "title",
+            fn: function() {
+              return [_c("h3", [_vm._v("TITOLO FOTO")])]
+            },
+            proxy: true
+          },
+          {
+            key: "img",
+            fn: function() {
+              return [
+                _c("img", {
+                  attrs: { src: "storage/assets/homepage/003.jpg", alt: "" }
+                })
+              ]
+            },
+            proxy: true
+          },
+          {
+            key: "text",
+            fn: function() {
+              return [_c("p", [_vm._v("Testo")])]
+            },
+            proxy: true
+          }
+        ])
+      }),
+      _vm._v(" "),
+      _c("vs-card", {
+        attrs: { type: "5" },
+        scopedSlots: _vm._u([
+          {
+            key: "title",
+            fn: function() {
+              return [_c("h3", [_vm._v("TITOLO FOTO")])]
+            },
+            proxy: true
+          },
+          {
+            key: "img",
+            fn: function() {
+              return [
+                _c("img", {
+                  attrs: { src: "storage/assets/homepage/004.jpg", alt: "" }
+                })
+              ]
+            },
+            proxy: true
+          },
+          {
+            key: "text",
+            fn: function() {
+              return [_c("p", [_vm._v("Testo")])]
+            },
+            proxy: true
+          }
+        ])
+      }),
+      _vm._v(" "),
+      _c("vs-card", {
+        attrs: { type: "5" },
+        scopedSlots: _vm._u([
+          {
+            key: "title",
+            fn: function() {
+              return [_c("h3", [_vm._v("TITOLO FOTO")])]
+            },
+            proxy: true
+          },
+          {
+            key: "img",
+            fn: function() {
+              return [
+                _c("img", {
+                  attrs: { src: "storage/assets/homepage/005.jpg", alt: "" }
+                })
+              ]
+            },
+            proxy: true
+          },
+          {
+            key: "text",
+            fn: function() {
+              return [_c("p", [_vm._v("Testo")])]
+            },
+            proxy: true
+          }
+        ])
+      }),
+      _vm._v(" "),
+      _c("vs-card", {
+        attrs: { type: "5" },
+        scopedSlots: _vm._u([
+          {
+            key: "title",
+            fn: function() {
+              return [_c("h3", [_vm._v("TITOLO FOTO")])]
+            },
+            proxy: true
+          },
+          {
+            key: "img",
+            fn: function() {
+              return [
+                _c("img", {
+                  attrs: { src: "storage/assets/homepage/006.JPG", alt: "" }
+                })
+              ]
+            },
+            proxy: true
+          },
+          {
+            key: "text",
+            fn: function() {
+              return [_c("p", [_vm._v("Testo")])]
+            },
+            proxy: true
+          }
+        ])
+      })
     ],
     1
   )
@@ -38416,7 +38619,8 @@ var render = function() {
       _c(
         "vs-button",
         {
-          attrs: { shadow: "" },
+          staticClass: "mb-3",
+          attrs: { size: "xl", shadow: "" },
           on: {
             click: function($event) {
               _vm.activeSidebar = !_vm.activeSidebar
@@ -77378,6 +77582,8 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuesax__WEBPACK_IMPORTED_MODULE_1
 var app = new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   el: '#app'
 });
+var myCarousel = document.querySelector('#myCarousel');
+var carousel = new bootstrap.Carousel(myCarousel);
 
 /***/ }),
 

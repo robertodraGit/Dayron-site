@@ -1,0 +1,11 @@
+.carousel-inner > .carousel-item {
+
+	min-height: 600px;
+	background-size: cover;
+	border-radius: 16px;
+	background-position: center;
+}
+
+.carousel-control-prev, .carousel-control-next {
+	opacity: 0.9;
+}
