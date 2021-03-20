@@ -1,9 +1,9 @@
 <template>
     <div class="hidden">
       <vs-button size='xl' shadow @click="activeSidebar = !activeSidebar" class="mb-3">
-        <img style='width: 100px' src="storage/assets/mignon.png">
+        <img style='width: 150px' src="storage/assets/mignon.png">
         <template #animate >
-          Menù
+          <span style='font-size: 1rem'>Menù</span>
         </template>
       </vs-button> 
       <vs-sidebar class="mt-3"

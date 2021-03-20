@@ -6,6 +6,7 @@
 
         <title>Dayron Srl</title>
 
+        {{-- <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('storage/assets/favicon/favicon-16x16.png') }}"> --}}
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
@@ -24,6 +25,9 @@
                       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                       <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                       <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                      <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                      <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                      <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
                     </ol>
                     <div class="carousel-inner">
                       <div class="carousel-item active" style="background-image: url('storage/assets/homepage/001.jpg');">
@@ -31,6 +35,12 @@
                       <div class="carousel-item" style="background-image: url('storage/assets/homepage/002.png');">
                       </div>
                       <div class="carousel-item" style="background-image: url('storage/assets/homepage/003.jpg');">
+                      </div>
+                      <div class="carousel-item" style="background-image: url('storage/assets/homepage/004.jpg');">
+                      </div>
+                      <div class="carousel-item" style="background-image: url('storage/assets/homepage/005.jpg');">
+                      </div>
+                      <div class="carousel-item" style="background-image: url('storage/assets/homepage/006.JPG');">
                       </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

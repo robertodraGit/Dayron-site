@@ -38630,7 +38630,11 @@ var render = function() {
             {
               key: "animate",
               fn: function() {
-                return [_vm._v("\n      Menù\n    ")]
+                return [
+                  _c("span", { staticStyle: { "font-size": "1rem" } }, [
+                    _vm._v("Menù")
+                  ])
+                ]
               },
               proxy: true
             }
@@ -38638,7 +38642,7 @@ var render = function() {
         },
         [
           _c("img", {
-            staticStyle: { width: "100px" },
+            staticStyle: { width: "150px" },
             attrs: { src: "storage/assets/mignon.png" }
           })
         ]
