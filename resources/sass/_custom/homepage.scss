@@ -10,6 +10,11 @@
 	opacity: 0.9;
 }
 
+.vs-card-content {
+	display: flex;
+	justify-content: center;
+}
+
 @media all and (max-width: 992px) {
 	.carousel-inner > .carousel-item {
 

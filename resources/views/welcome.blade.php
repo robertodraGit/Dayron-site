@@ -6,9 +6,16 @@
 
         <title>Dayron Srl</title>
 
-        {{-- <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('storage/assets/favicon/favicon-16x16.png') }}"> --}}
+          {{-- favicon --}}
+        <link rel="apple-touch-icon" sizes="180x180" href="storage/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="storage/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="storage/favicon/favicon-16x16.png">
+        <link rel="manifest" href="storage/favicon/site.webmanifest">
+          {{-- end favicon --}}
+
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet"> 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     </head>
@@ -55,6 +62,71 @@
                         </vs-button>
                       <span class="sr-only">Next</span>
                     </a>
+                  </div>
+
+                  <div class="container mt-5">
+                    <div class='row justify-content-center'>
+                      <h1>
+                        Dayron
+                      </h1>
+                    </div>
+                    <div class='row justify-content-center mt-3'>
+                      <h4 class="col-md-8 col-sm-12 text-justify">
+                        Da tre generazioni la famiglia Amato ha sempre lavorato nel settore meccanico, tramandando il mestiere da padre in figlio. Diverse officine in differenti paesi della Sicilia orientale e delle Isole Eolie hanno portato e portano il nome della famiglia.
+                      </h4>
+                    </div>
+                    <div class="row justify-content-center mt-3">
+                      <h1>
+                        Noleggio
+                      </h1>
+                    </div>
+                    <div class="row justify-content-center mt-3 mb-3">
+                      <div class="col-sm-12 col-lg-4">
+                        <vs-card>
+                          <template #title>
+                            <h3>Barche e gommoni</h3>
+                          </template>
+                          <template #img>
+                            <img src="storage/assets/cardshome/barca.png" alt="">
+                          </template>
+                          <template #text>
+                            <p>
+                              A partire da 30,00 euro
+                            </p>
+                          </template>
+                        </vs-card>
+                      </div>
+                      <div class="col-sm-12 col-lg-4">
+                        <vs-card>
+                          <template #title>
+                            <h3>Pedalò</h3>
+                          </template>
+                          <template #img>
+                            <img src="storage/assets/cardshome/pedalo.jpg" alt="">
+                          </template>
+                          <template #text>
+                            <p>
+                              A partire da 10,00 euro
+                            </p>
+                          </template>
+                        </vs-card>
+                      </div>
+                      <div class="col-sm-12 col-lg-4">
+                        <vs-card>
+                          <template #title>
+                            <h3>Canoe</h3>
+                          </template>
+                          <template #img>
+                            <img src="storage/assets/cardshome/canoe.jpg" alt="">
+                          </template>
+                          <template #text>
+                            <p>
+                              A partire da 5,00 euro
+                            </p>
+                          </template>
+                        </vs-card>
+                      </div>
+                    </div>
                   </div>
 
             </div>
