@@ -21,11 +21,10 @@
     </head>
     <body>
         <div id="app">
-            <div class="container mt-3">
+            <div class="container">
 
-              <div class="sidebar">
+              <div class="sidebar pt-2">
                 <sidebar>
-                
                 </sidebar>
               </div>
 
