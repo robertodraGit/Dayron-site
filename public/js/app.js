@@ -77586,7 +77586,7 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuesax__WEBPACK_IMPORTED_MODULE_1
 var app = new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   el: '#app'
 });
-var myCarousel = document.querySelector('#myCarousel');
+var myCarousel = document.querySelector('#carousel-homepage');
 var carousel = new bootstrap.Carousel(myCarousel);
 
 /***/ }),

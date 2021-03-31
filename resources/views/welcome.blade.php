@@ -23,18 +23,20 @@
         <div id="app">
             <div class="container mt-3">
 
+              <div class="sidebar">
                 <sidebar>
                 
                 </sidebar>
+              </div>
 
-                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <div id="carousel-homepage" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
-                      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                      <li data-target="#carousel-homepage" data-slide-to="0" class="active"></li>
+                      <li data-target="#carousel-homepage" data-slide-to="1"></li>
+                      <li data-target="#carousel-homepage" data-slide-to="2"></li>
+                      <li data-target="#carousel-homepage" data-slide-to="3"></li>
+                      <li data-target="#carousel-homepage" data-slide-to="4"></li>
+                      <li data-target="#carousel-homepage" data-slide-to="5"></li>
                     </ol>
                     <div class="carousel-inner">
                       <div class="carousel-item active" style="background-image: url('storage/assets/homepage/001.jpg');">
@@ -50,13 +52,13 @@
                       <div class="carousel-item" style="background-image: url('storage/assets/homepage/006.JPG');">
                       </div>
                     </div>
-                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <a class="carousel-control-prev" href="#carousel-homepage" role="button" data-slide="prev">
                         <vs-button gradient size="large">
                             <i class="fas fa-arrow-left"></i>
                         </vs-button>
                       <span class="sr-only">Previous</span>
                     </a>
-                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <a class="carousel-control-next" href="#carousel-homepage" role="button" data-slide="next">
                         <vs-button gradient size="large">
                             <i class="fas fa-arrow-right"></i>
                         </vs-button>

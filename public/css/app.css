@@ -10954,6 +10954,15 @@ a.text-dark:focus {
   justify-content: center;
 }
 
+.sidebar {
+  position: fixed;
+  z-index: 2;
+}
+
+#carousel-homepage {
+  padding-top: 5.5em;
+}
+
 @media all and (max-width: 992px) {
   .carousel-inner > .carousel-item {
     min-height: 500px;
