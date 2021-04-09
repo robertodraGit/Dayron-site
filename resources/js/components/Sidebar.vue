@@ -12,7 +12,7 @@
         >
         <vs-sidebar-item id="home">
           <template #icon>
-            <i class="fas fa-anchor"></i>
+            <i class="fas fa-water"></i>
           </template>
           Home
         </vs-sidebar-item>
@@ -24,7 +24,7 @@
         </vs-sidebar-item>
         <vs-sidebar-item id="pontile">
           <template #icon>
-            <i class="fas fa-water"></i>
+            <i class="fas fa-anchor"></i>
           </template>
           Pontile
         </vs-sidebar-item>
@@ -32,7 +32,7 @@
           <template #icon>
             <i class="fas fa-wrench"></i>
           </template>
-          Officina
+          Assistenza Meccanica
         </vs-sidebar-item>
         <vs-sidebar-item id="refitting">
           <template #icon>

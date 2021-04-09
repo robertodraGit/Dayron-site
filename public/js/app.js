@@ -38675,7 +38675,7 @@ var render = function() {
                 {
                   key: "icon",
                   fn: function() {
-                    return [_c("i", { staticClass: "fas fa-anchor" })]
+                    return [_c("i", { staticClass: "fas fa-water" })]
                   },
                   proxy: true
                 }
@@ -38709,7 +38709,7 @@ var render = function() {
                 {
                   key: "icon",
                   fn: function() {
-                    return [_c("i", { staticClass: "fas fa-water" })]
+                    return [_c("i", { staticClass: "fas fa-anchor" })]
                   },
                   proxy: true
                 }
@@ -38732,7 +38732,7 @@ var render = function() {
                 }
               ])
             },
-            [_vm._v("\n      Officina\n    ")]
+            [_vm._v("\n      Assistenza Meccanica\n    ")]
           ),
           _vm._v(" "),
           _c(

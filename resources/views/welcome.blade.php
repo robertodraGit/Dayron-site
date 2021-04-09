@@ -67,14 +67,21 @@
 
                   <div class="container mt-5">
                     <div class='row justify-content-center'>
-                      <h1>
-                        Dayron
-                      </h1>
+                      <img src="storage/assets/1000px_black.png" alt="" style='width: 400px;'>
                     </div>
-                    <div class='row justify-content-center mt-3'>
-                      <h4 class="col-md-8 col-sm-12 text-justify">
-                        Da tre generazioni la famiglia Amato ha sempre lavorato nel settore meccanico, tramandando il mestiere da padre in figlio. Diverse officine in differenti paesi della Sicilia orientale e delle Isole Eolie hanno portato e portano il nome della famiglia.
-                      </h4>
+                    <div class='row justify-content-center mt-4'>
+                      <div class="col-sm-12 col-lg-4"> 
+                        <h2><i class="fas fa-ship"></i> Noleggio</h2>
+                        <h5 class="mt-4">Barche e gommoni, canoe, pedalò e SUP</h5>
+                      </div>
+                      <div class="col-sm-12 col-lg-4">
+                        <h2><i class="fas fa-anchor"></i> Pontile</h2>
+                        <h5 class="mt-4">Santa Maria La Scala, Acireale (CT)</h5>
+                      </div>
+                      <div class="col-sm-12 col-lg-4">
+                        <h2><i class="fas fa-wrench"></i> Assistenza Meccanica</h2>
+                        <h5 class="mt-4">Motori entrobordo, entro-fuoribordo e fuoribordo</h5>
+                      </div>
                     </div>
                     <div class="row justify-content-center mt-3">
                       <h1>
